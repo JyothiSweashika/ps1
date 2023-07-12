@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\bin\Debug\practice1.exe.config
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\bin\Debug\practice1.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\bin\Debug\practice1.pdb
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\obj\Debug\practice1.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\obj\Debug\practice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\obj\Debug\practice1.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day3\practice1\practice1\obj\Debug\practice1.pdb
